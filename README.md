@@ -1,0 +1,2 @@
+# QMC5883-SOFTI2C
+WIP..
